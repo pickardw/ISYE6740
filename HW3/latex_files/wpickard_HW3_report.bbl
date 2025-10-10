@@ -1,0 +1,272 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{ynt/global//global/global/global}
+    \entry{bishop2007}{book}{}{}
+      \name{author}{1}{}{%
+        {{hash=9dfd0135a5e80aa6d81cea2c10fb7f73}{%
+           family={Bishop},
+           familyi={B\bibinitperiod},
+           given={Christopher\bibnamedelima M.},
+           giveni={C\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{9dfd0135a5e80aa6d81cea2c10fb7f73}
+      \strng{fullhash}{9dfd0135a5e80aa6d81cea2c10fb7f73}
+      \strng{fullhashraw}{9dfd0135a5e80aa6d81cea2c10fb7f73}
+      \strng{bibnamehash}{9dfd0135a5e80aa6d81cea2c10fb7f73}
+      \strng{authorbibnamehash}{9dfd0135a5e80aa6d81cea2c10fb7f73}
+      \strng{authornamehash}{9dfd0135a5e80aa6d81cea2c10fb7f73}
+      \strng{authorfullhash}{9dfd0135a5e80aa6d81cea2c10fb7f73}
+      \strng{authorfullhashraw}{9dfd0135a5e80aa6d81cea2c10fb7f73}
+      \field{labelalpha}{Bis07}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1}
+      \field{isbn}{0387310738}
+      \field{title}{Pattern Recognition and Machine Learning (Information Science and Statistics)}
+      \field{year}{2007}
+      \verb{urlraw}
+      \verb http://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738%3FSubscriptionId%3D13CT5CVB80YFWJEPWS02%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0387310738
+      \endverb
+      \verb{url}
+      \verb http://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738%3FSubscriptionId%3D13CT5CVB80YFWJEPWS02%26tag%3Dws%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3D0387310738
+      \endverb
+      \keyw{algorithms machinelearning patternrecognition statistics}
+    \endentry
+    \entry{Petersen2008}{misc}{}{}
+      \name{author}{2}{}{%
+        {{hash=6654534710bf9876a36a934b2f471ec5}{%
+           family={Petersen},
+           familyi={P\bibinitperiod},
+           given={K.\bibnamedelimi B.},
+           giveni={K\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=92eacc3c6649e4a7c81c08de8316dc6a}{%
+           family={Pedersen},
+           familyi={P\bibinitperiod},
+           given={M.\bibnamedelimi S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Technical University of Denmark}%
+      }
+      \strng{namehash}{b9c6fdedd308f33cba48078f927b3c27}
+      \strng{fullhash}{b9c6fdedd308f33cba48078f927b3c27}
+      \strng{fullhashraw}{b9c6fdedd308f33cba48078f927b3c27}
+      \strng{bibnamehash}{b9c6fdedd308f33cba48078f927b3c27}
+      \strng{authorbibnamehash}{b9c6fdedd308f33cba48078f927b3c27}
+      \strng{authornamehash}{b9c6fdedd308f33cba48078f927b3c27}
+      \strng{authorfullhash}{b9c6fdedd308f33cba48078f927b3c27}
+      \strng{authorfullhashraw}{b9c6fdedd308f33cba48078f927b3c27}
+      \field{labelalpha}{PP08}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{Matrix identities, relations and approximations. A desktop reference for quick overview of mathematics of matrices.}
+      \field{month}{10}
+      \field{note}{Version 20081110}
+      \field{title}{The Matrix Cookbook}
+      \field{year}{2008}
+      \verb{urlraw}
+      \verb http://www2.imm.dtu.dk/pubdb/p.php?3274
+      \endverb
+      \verb{url}
+      \verb http://www2.imm.dtu.dk/pubdb/p.php?3274
+      \endverb
+      \keyw{matrixderivative inverse Matrixidentity matrixrelations}
+    \endentry
+    \entry{se628927}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=f392ca837e4cb03c19046c0dd16b6133}{%
+           family={(https://math.stackexchange.com/users/119124/cpm)},
+           familyi={(\bibinitperiod},
+           given={CPM},
+           giveni={C\bibinitperiod}}}%
+      }
+      \strng{namehash}{f392ca837e4cb03c19046c0dd16b6133}
+      \strng{fullhash}{f392ca837e4cb03c19046c0dd16b6133}
+      \strng{fullhashraw}{f392ca837e4cb03c19046c0dd16b6133}
+      \strng{bibnamehash}{f392ca837e4cb03c19046c0dd16b6133}
+      \strng{authorbibnamehash}{f392ca837e4cb03c19046c0dd16b6133}
+      \strng{authornamehash}{f392ca837e4cb03c19046c0dd16b6133}
+      \strng{authorfullhash}{f392ca837e4cb03c19046c0dd16b6133}
+      \strng{authorfullhashraw}{f392ca837e4cb03c19046c0dd16b6133}
+      \field{labelalpha}{htt14}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Mathematics Stack Exchange}
+      \field{note}{URL:https://math.stackexchange.com/q/628927 (version: 2014-01-06)}
+      \field{title}{Relation between determinant and matrix rank}
+      \field{year}{2014}
+      \verb{eprint}
+      \verb https://math.stackexchange.com/q/628927
+      \endverb
+      \verb{urlraw}
+      \verb https://math.stackexchange.com/q/628927
+      \endverb
+      \verb{url}
+      \verb https://math.stackexchange.com/q/628927
+      \endverb
+    \endentry
+    \entry{se180366}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=0c2686339ac31fd22c4f9697047da9b5}{%
+           family={(https://stats.stackexchange.com/users/28666/amoeba)},
+           familyi={(\bibinitperiod},
+           prefix={amoeba},
+           prefixi={a\bibinitperiod}}}%
+      }
+      \strng{namehash}{0c2686339ac31fd22c4f9697047da9b5}
+      \strng{fullhash}{0c2686339ac31fd22c4f9697047da9b5}
+      \strng{fullhashraw}{0c2686339ac31fd22c4f9697047da9b5}
+      \strng{bibnamehash}{0c2686339ac31fd22c4f9697047da9b5}
+      \strng{authorbibnamehash}{0c2686339ac31fd22c4f9697047da9b5}
+      \strng{authornamehash}{0c2686339ac31fd22c4f9697047da9b5}
+      \strng{authorfullhash}{0c2686339ac31fd22c4f9697047da9b5}
+      \strng{authorfullhashraw}{0c2686339ac31fd22c4f9697047da9b5}
+      \field{labelalpha}{htt15}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Cross Validated}
+      \field{note}{URL:https://stats.stackexchange.com/q/180366 (version: 2015-11-05)}
+      \field{title}{Why is the rank of covariance matrix at most $n-1$?}
+      \field{year}{2015}
+      \verb{eprint}
+      \verb https://stats.stackexchange.com/q/180366
+      \endverb
+      \verb{urlraw}
+      \verb https://stats.stackexchange.com/q/180366
+      \endverb
+      \verb{url}
+      \verb https://stats.stackexchange.com/q/180366
+      \endverb
+    \endentry
+    \entry{se862}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=04f203908edb479f8e6af310174a1957}{%
+           family={(https://stats.stackexchange.com/users/159/rob-hyndman)},
+           familyi={(\bibinithyphendelim h\bibinitperiod},
+           given={Rob\bibnamedelima Hyndman},
+           giveni={R\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{04f203908edb479f8e6af310174a1957}
+      \strng{fullhash}{04f203908edb479f8e6af310174a1957}
+      \strng{fullhashraw}{04f203908edb479f8e6af310174a1957}
+      \strng{bibnamehash}{04f203908edb479f8e6af310174a1957}
+      \strng{authorbibnamehash}{04f203908edb479f8e6af310174a1957}
+      \strng{authornamehash}{04f203908edb479f8e6af310174a1957}
+      \strng{authorfullhash}{04f203908edb479f8e6af310174a1957}
+      \strng{authorfullhashraw}{04f203908edb479f8e6af310174a1957}
+      \field{labelalpha}{htt19}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Cross Validated}
+      \field{note}{URL:https://stats.stackexchange.com/q/862 (version: 2019-01-31)}
+      \field{title}{Calculating optimal number of bins in a histogram}
+      \field{year}{2019}
+      \verb{eprint}
+      \verb https://stats.stackexchange.com/q/862
+      \endverb
+      \verb{urlraw}
+      \verb https://stats.stackexchange.com/q/862
+      \endverb
+      \verb{url}
+      \verb https://stats.stackexchange.com/q/862
+      \endverb
+    \endentry
+    \entry{se351550}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=9b1a5463766d48a5c0ee35e6d36e812a}{%
+           family={(https://stats.stackexchange.com/users/192854/xavier-bourret-sicotte)},
+           familyi={(\bibinithyphendelim b\bibinithyphendelim s\bibinitperiod},
+           given={Xavier\bibnamedelimb Bourret\bibnamedelima Sicotte},
+           giveni={X\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{9b1a5463766d48a5c0ee35e6d36e812a}
+      \strng{fullhash}{9b1a5463766d48a5c0ee35e6d36e812a}
+      \strng{fullhashraw}{9b1a5463766d48a5c0ee35e6d36e812a}
+      \strng{bibnamehash}{9b1a5463766d48a5c0ee35e6d36e812a}
+      \strng{authorbibnamehash}{9b1a5463766d48a5c0ee35e6d36e812a}
+      \strng{authornamehash}{9b1a5463766d48a5c0ee35e6d36e812a}
+      \strng{authorfullhash}{9b1a5463766d48a5c0ee35e6d36e812a}
+      \strng{authorfullhashraw}{9b1a5463766d48a5c0ee35e6d36e812a}
+      \field{labelalpha}{htt22}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Cross Validated}
+      \field{note}{URL:https://stats.stackexchange.com/q/351550 (version: 2022-04-29)}
+      \field{title}{Maximum Likelihood Estimators - Multivariate Gaussian}
+      \field{year}{2022}
+      \verb{eprint}
+      \verb https://stats.stackexchange.com/q/351550
+      \endverb
+      \verb{urlraw}
+      \verb https://stats.stackexchange.com/q/351550
+      \endverb
+      \verb{url}
+      \verb https://stats.stackexchange.com/q/351550
+      \endverb
+    \endentry
+    \entry{enwiki:1305066115}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=b6aea1a416c89509a7df1cbb69249cb6}{%
+           family={{Wikipedia contributors}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{fullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{fullhashraw}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{bibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorbibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authornamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorfullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorfullhashraw}{b6aea1a416c89509a7df1cbb69249cb6}
+      \field{labelalpha}{Wik25}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 28-September-2025]}
+      \field{title}{Kernel density estimation --- {Wikipedia}{,} The Free Encyclopedia}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/w/index.php?title=Kernel_density_estimation&oldid=1305066115
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=Kernel_density_estimation&oldid=1305066115
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

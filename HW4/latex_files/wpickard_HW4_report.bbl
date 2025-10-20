@@ -19,6 +19,40 @@
 
 \refsection{0}
   \datalist[entry]{ynt/global//global/global/global}
+    \entry{se1225116}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=848ec6f33cac5fcd804676940ee2a527}{%
+           family={(https://math.stackexchange.com/users/229646/michael-percy)},
+           familyi={(\bibinithyphendelim p\bibinitperiod},
+           given={Michael\bibnamedelima Percy},
+           giveni={M\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{848ec6f33cac5fcd804676940ee2a527}
+      \strng{fullhash}{848ec6f33cac5fcd804676940ee2a527}
+      \strng{fullhashraw}{848ec6f33cac5fcd804676940ee2a527}
+      \strng{bibnamehash}{848ec6f33cac5fcd804676940ee2a527}
+      \strng{authorbibnamehash}{848ec6f33cac5fcd804676940ee2a527}
+      \strng{authornamehash}{848ec6f33cac5fcd804676940ee2a527}
+      \strng{authorfullhash}{848ec6f33cac5fcd804676940ee2a527}
+      \strng{authorfullhashraw}{848ec6f33cac5fcd804676940ee2a527}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{Mathematics Stack Exchange}
+      \field{note}{URL:https://math.stackexchange.com/q/1225116 (version: 2017-09-01)}
+      \field{title}{Derivative of sigmoid function $\sigma (x) = \frac{1}{1+e^{-x}}$}
+      \field{year}{2017}
+      \verb{eprint}
+      \verb https://math.stackexchange.com/q/1225116
+      \endverb
+      \verb{urlraw}
+      \verb https://math.stackexchange.com/q/1225116
+      \endverb
+      \verb{url}
+      \verb https://math.stackexchange.com/q/1225116
+      \endverb
+    \endentry
     \entry{ED_Brent_Speelman}{misc}{}{}
       \name{author}{1}{}{%
         {{hash=71adca8628bab4792993fc800b188c05}{%
@@ -42,6 +76,34 @@
       \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
       \field{labelnamesource}{author}
       \field{year}{2025}
+    \endentry
+    \entry{enwiki:1310095500}{misc}{}{}
+      \name{author}{1}{}{%
+        {{hash=b6aea1a416c89509a7df1cbb69249cb6}{%
+           family={{Wikipedia contributors}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{fullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{fullhashraw}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{bibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorbibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authornamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorfullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorfullhashraw}{b6aea1a416c89509a7df1cbb69249cb6}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{[Online; accessed 13-October-2025]}
+      \field{title}{Karush–Kuhn–Tucker conditions --- {Wikipedia}{,} The Free Encyclopedia}
+      \field{year}{2025}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/w/index.php?title=Karush%E2%80%93Kuhn%E2%80%93Tucker_conditions&oldid=1310095500
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/w/index.php?title=Karush%E2%80%93Kuhn%E2%80%93Tucker_conditions&oldid=1310095500
+      \endverb
     \endentry
   \enddatalist
 \endrefsection
